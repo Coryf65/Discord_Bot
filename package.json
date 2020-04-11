@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "desription": "",
         "main": "",
-        "author": "Hiddensquid",
+        "author": "Coryf65",
         "dependencies": {
                 "discord.io": "^2.5.3",
                 "winston": "^3.1.0"
